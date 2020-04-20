@@ -1,5 +1,5 @@
 {
     "scope": "vote-by-mail",
-    "alias": ["mailmyballot.co", "mailmyballot.info"],
+    "alias": ["mailmyballot.co", "mailmyballot.info", "mailmyballot.net", "voteathome.app", "vbmreg.org", "staging.vbmreg.org"],
     "public": false
 }
