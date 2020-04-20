@@ -1,0 +1,5 @@
+{
+    "scope": "vote-by-mail",
+    "alias": ["mailmyballot.co", "mailmyballot.info"],
+    "public": false
+}
